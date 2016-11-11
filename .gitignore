@@ -1,0 +1,5 @@
+# Mac specific folders
+.idea
+
+# Application generated folders/files
+node_modules
